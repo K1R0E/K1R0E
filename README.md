@@ -27,8 +27,12 @@
 
 ---
 # 🗄️Tech Stack🗄️
+
+<div align = "center">
   <img  alt="java" width = "40px" style="padding-right=10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  
+</div>
+
+---
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=K1R0E&icon=10&color=6)](https://visitcount.itsvg.in)
