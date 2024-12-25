@@ -8,8 +8,9 @@
 ### About meh
 
 <p>
-  I am...
-</p>
+Hi, I'm <em>Christien Florenz Tecson</em>, a passionate programmer with a knack for turning complex problems into elegant solutions. My expertise spans Java programming and Digital Arts, and I enjoy building myself to become an entry-level programmer to an expert programmer.
+
+I'm driven by curiosity and a commitment to continuous learning, always seeking innovative ways to create impactful software. Let’s connect and collaborate on building something amazing!</p>
 
 ---
 ### 📈My stats📈
@@ -30,6 +31,7 @@
 
 <div align = "center">
   <img  alt="java" width = "40px" style="padding-right=10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img  alt="java" width = "40px" style="padding-right=10px;" src = "https://img.icons8.com/?size=100&id=hylX6EPAOYOQ&format=png&color=000000"/>
 </div>
 
 ---
